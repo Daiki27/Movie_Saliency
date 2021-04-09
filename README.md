@@ -12,3 +12,6 @@ I employed old saliency detection model (not deep learning), because it is first
 https://docs.opencv.org/3.4/df/d37/classcv_1_1saliency_1_1StaticSaliencySpectralResidual.html  
 [2] StaticSaliencyFineGrained  
 https://docs.opencv.org/3.4/da/dd0/classcv_1_1saliency_1_1StaticSaliencyFineGrained.html
+
+# Result 
+![saliency](https://user-images.githubusercontent.com/27540739/114218629-9fd2a300-99a4-11eb-9f6b-2d95beb56c18.gif)
