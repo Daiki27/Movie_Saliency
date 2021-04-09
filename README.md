@@ -3,7 +3,7 @@
 This program detect "saliency" of the input video. This word "saliency" means the objects that stands out in the video.
 I employed old saliency detection model (not deep learning), because it is first time for me to detect salieny of video.
 
-# Input/Output Date
+# Input/Output Video
 ・input  : movie(.mp4)  
 ・output : movie with saliency(.mp4) 
 
