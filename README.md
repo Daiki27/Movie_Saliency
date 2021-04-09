@@ -15,9 +15,9 @@ https://docs.opencv.org/3.4/da/dd0/classcv_1_1saliency_1_1StaticSaliencyFineGrai
 
 # Result 
 
-model[1]による検出結果.  
+Result image using StaticSaliencySpectralResidual mode.
 
 ![saliency](https://user-images.githubusercontent.com/27540739/114218629-9fd2a300-99a4-11eb-9f6b-2d95beb56c18.gif)
 
-Video by Coverr-Free-Footage from Pixabay
+Video by Coverr-Free-Footage from Pixabay  
 https://pixabay.com/ja/videos/カメラマン-ビーチ-写真-91/
